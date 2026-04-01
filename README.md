@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me
+
+Fullstack Developer with strong expertise in Angular and React ecosystems, along with solid experience in Node.js and Python backend frameworks. Proven track record of building scalable, high-load, and secure web applications for enterprise clients.
+
+Experienced in working within teams of various sizes, from small agile groups to larger cross-functional teams. Capable of taking full ownership of features and systems - including independently designing and implementing both frontend and backend core logic from scratch in production projects.
+
+Skilled in performance optimization, API design, accessibility, and mentoring junior developers.
+
+I have experience with AI-assisted development tools such as ChatGPT, Codex, Cursor, and GitHub Copilot to streamline coding, prototyping, and problem-solving.
 
 <!--
 **alexdev-kgd/alexdev-kgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
